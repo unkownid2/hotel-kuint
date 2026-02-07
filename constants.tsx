@@ -97,7 +97,7 @@ export const ROOMS_DATA: Room[] = [
     left: 2,
     maxPeople: 2,
     basePrice: 76,
-    images: ['https://i.ibb.co/Fq4Lk6hJ/205530614.jpg', 'https://i.ibb.co/Fq4Lk6hJ/205530614.jpg'],
+    images: ['https://i.ibb.co/Fq4Lk6hJ/205530614.jpg', 'https://i.ibb.co/pr4CZWfm/207411607.jpg'],
     amenities: ['Balcony', 'Garden view', 'Mountain view', 'City view', 'Air conditioning', 'Minibar', 'Free Wifi', 'Flat-screen TV', 'Safe', 'Bathrobe', 'Netflix']
   },
   {
@@ -130,7 +130,7 @@ export const ROOMS_DATA: Room[] = [
     left: 1,
     maxPeople: 6,
     basePrice: 191,
-    images: ['https://i.ibb.co/YBWmg7WK/205530608.jpg', 'https://i.ibb.co/C5y3gySc/256668171.jpg'],
+    images: ['https://i.ibb.co/tT1vnNB8/256668159.jpg', 'https://i.ibb.co/C5y3gySc/256668171.jpg'],
     amenities: ['3 Bedrooms', 'Living room', 'Private bathroom', 'Free Wifi', 'Dining area', 'Kitchenette']
   },
   {
