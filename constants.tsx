@@ -34,6 +34,9 @@ export const GALLERY_DATA: GalleryImage[] = [
   { id: 'r27', category: 'rooms', url: 'https://i.ibb.co/Z1YfKYfd/256668159.jpg' },
   { id: 'r28', category: 'rooms', url: 'https://i.ibb.co/6Rjg3XKr/256668163.jpg' },
   { id: 'r29', category: 'rooms', url: 'https://i.ibb.co/B57KpYhp/256668386.jpg' },
+  { id: 'r30', category: 'rooms', url: 'https://i.ibb.co/fYZVNNyf/274813043.jpg' },
+  { id: 'r31', category: 'rooms', url: 'https://i.ibb.co/pr5G7f1R/256667180.jpg' },
+  { id: 'r32', category: 'rooms', url: 'https://i.ibb.co/pr4CZWfm/207411607.jpg' },
   // Views (18)
   { id: 'v1', category: 'views', url: 'https://i.ibb.co/d8dBpQC/205530618.jpg' },
   { id: 'v2', category: 'views', url: 'https://i.ibb.co/TDxFv24d/205530626.jpg' },
@@ -94,7 +97,7 @@ export const ROOMS_DATA: Room[] = [
     left: 2,
     maxPeople: 2,
     basePrice: 76,
-    images: ['https://i.ibb.co/GQjB3YQz/56271621-2032616003698926-7527613592846204928-n-Photoroom.png', 'https://i.ibb.co/8gq9XTjH/256668391-1.jpg'],
+    images: ['https://i.ibb.co/Fq4Lk6hJ/205530614.jpg', 'https://i.ibb.co/Fq4Lk6hJ/205530614.jpg'],
     amenities: ['Balcony', 'Garden view', 'Mountain view', 'City view', 'Air conditioning', 'Minibar', 'Free Wifi', 'Flat-screen TV', 'Safe', 'Bathrobe', 'Netflix']
   },
   {
@@ -105,7 +108,7 @@ export const ROOMS_DATA: Room[] = [
     left: 2,
     maxPeople: 2,
     basePrice: 76,
-    images: ['https://i.ibb.co/CsbMzZK3/256668391.jpg', 'https://i.ibb.co/77YwSTG/256668397.jpg'],
+    images: ['https://i.ibb.co/Fq4Lk6hJ/205530614.jpg', 'https://i.ibb.co/YBWmg7WK/205530608.jpg'],
     amenities: ['Balcony', 'Mountain view', 'Landmark view', 'Air conditioning', 'Minibar', 'Free Wifi', 'Soundproof', 'Terrace', 'Safe']
   },
   {
@@ -116,7 +119,7 @@ export const ROOMS_DATA: Room[] = [
     left: 1,
     maxPeople: 2,
     basePrice: 166,
-    images: ['https://i.ibb.co/FLbRvfcy/256668418-1.jpg', 'https://i.ibb.co/PsMKzR9H/256668418.jpg'],
+    images: ['https://i.ibb.co/PGcBx3pF/205530576.jpg', 'https://i.ibb.co/CKsFgNPC/256668176.jpg'],
     amenities: ['Private pool', 'Rooftop pool', 'Mountain view', 'City view', 'Air conditioning', 'Minibar', 'Free Wifi', 'Netflix']
   },
   {
@@ -127,7 +130,7 @@ export const ROOMS_DATA: Room[] = [
     left: 1,
     maxPeople: 6,
     basePrice: 191,
-    images: ['https://i.ibb.co/nVpH72Z/205530606-1.jpg', 'https://i.ibb.co/21bGX6BK/205530606.jpg'],
+    images: ['https://i.ibb.co/YBWmg7WK/205530608.jpg', 'https://i.ibb.co/C5y3gySc/256668171.jpg'],
     amenities: ['3 Bedrooms', 'Living room', 'Private bathroom', 'Free Wifi', 'Dining area', 'Kitchenette']
   },
   {
@@ -138,7 +141,7 @@ export const ROOMS_DATA: Room[] = [
     left: 1,
     maxPeople: 6,
     basePrice: 193,
-    images: ['https://i.ibb.co/QjpxtSTV/205530609.jpg', 'https://i.ibb.co/VpTBSxB0/205530614-1.jpg'],
+    images: ['https://i.ibb.co/CsWbLL86/256668391.jpg', 'https://i.ibb.co/k2MV0zHh/256668416.jpg'],
     amenities: ['3 Bedrooms', 'Living room', 'Private bathroom', 'Free Wifi', 'Dining area', 'Kitchenette']
   }
 ];
