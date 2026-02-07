@@ -224,7 +224,7 @@ export default function App() {
       {/* Hero Section - Lowered content further for desktop to clear header blur and reduced text size */}
       <header className="relative h-screen flex items-center justify-center text-white text-center px-6 overflow-hidden">
         <img src="https://i.ibb.co/TDxFv24d/205530626.jpg" alt="Hero" className="absolute inset-0 w-full h-full object-cover brightness-[0.4]" />
-        <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-transparent to-stone-50" />
+        <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-transparent to-black-50" />
         
         {/* Added lg:pt-64 for more clearance on PC */}
         <div className="relative z-10 flex flex-col items-center max-w-6xl lg:pt-64">
