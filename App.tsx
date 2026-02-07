@@ -350,7 +350,7 @@ export default function App() {
         </div>
       </section>
 
-      {/* Facilities Section */}
+      {/* Interior Section */}
       <section id="facilities" className="py-24 md:py-40 bg-white">
         <div className="max-w-[1500px] mx-auto px-6 md:px-16">
           <SectionHeading title={t.facilities} subtitle={t.mostPopular} />
