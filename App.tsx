@@ -489,7 +489,7 @@ export default function App() {
                <a href={SOCIAL_LINKS.instagram} target="_blank" className="hover:text-white transition-colors">Instagram</a>
                <a href={SOCIAL_LINKS.tiktok} target="_blank" className="hover:text-white transition-colors">TikTok</a>
              </div>
-             <p className="text-stone-800">DESIGN BY VIP AI</p>
+             <p className="text-stone-800">DESIGN BY SH</p>
           </div>
         </div>
       </footer>
