@@ -108,7 +108,7 @@ export const ROOMS_DATA: Room[] = [
     left: 2,
     maxPeople: 2,
     basePrice: 76,
-    images: ['https://i.ibb.co/Fq4Lk6hJ/205530614.jpg', 'https://i.ibb.co/YBWmg7WK/205530608.jpg'],
+    images: ['https://i.ibb.co/cS6LKxrS/205530631.jpg', 'https://i.ibb.co/YBWmg7WK/205530608.jpg'],
     amenities: ['Balcony', 'Mountain view', 'Landmark view', 'Air conditioning', 'Minibar', 'Free Wifi', 'Soundproof', 'Terrace', 'Safe']
   },
   {
